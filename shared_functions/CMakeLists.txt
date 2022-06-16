@@ -8,6 +8,7 @@ set(HEADERS
         is_prime.hpp
         is_palindrome.hpp
         factors_generator.hpp
+        timer.hpp
 
         )
 
